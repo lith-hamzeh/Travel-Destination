@@ -1,0 +1,7 @@
+.Tours {
+    display: grid;grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    gap: 10px;padding: 50px 150px;text-align: center;
+}
+.Tours img {
+    width: 300px;height: 300px;
+}
