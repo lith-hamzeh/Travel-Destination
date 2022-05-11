@@ -1,3 +1,11 @@
-.container {
-    width: 100vw;text-align: center;
+.container2 {
+    width: 97.5vw;
+    text-align: center;
+    display: flex;justify-content: space-around;
+    height: 10vh;background-color: silver;align-items: center;
+
+}
+.container2 button {
+    width: 200px; height: 40px;text-transform: capitalize;
+    font-weight: bold;cursor: pointer;
 }
