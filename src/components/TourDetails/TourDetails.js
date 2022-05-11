@@ -7,9 +7,7 @@ const TourDetails=()=>{
     const ids=useParams()
     const info=useRef()
     let select=Data.find((a)=>(a.id===ids.id))
-    console.log(select)
 const buttonselect=(e)=>{
-    console.log(e.target)
     info.current.classList.toggle("active");
     if(state==="show more"){
         setstete("show less")
