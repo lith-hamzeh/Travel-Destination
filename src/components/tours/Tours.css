@@ -2,6 +2,13 @@
     display: grid;grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
     gap: 10px;padding: 50px 150px;text-align: center;
 }
+.Tours .icon {
+    background-color: silver;padding:10px;
+    border-radius: 15px;
+}
 .Tours img {
     width: 300px;height: 300px;
+}
+.Tours button {
+    padding: 10px 30px ;text-transform: capitalize;font-weight: bold;
 }

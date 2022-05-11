@@ -1,5 +1,5 @@
 .footer {
     display: flex;justify-content: space-around;
     background-color: silver;
-    padding: 20px;width: 100vw;
+    width: 97.5vw;height: 10vh;align-items: center;
 }

@@ -1,0 +1,24 @@
+.container1 {
+    padding: 50px 250px;text-align: center;
+    text-transform: capitalize;
+}
+.container1 img {
+    width: 100%;
+    height: 600px;
+}
+.container1 .text {
+    display: flex;justify-content: space-between;
+}
+.container1 .text p {
+    padding: 10px;
+}
+.container1 button {
+    padding: 10px 30px;text-transform: capitalize;font-weight: bold;
+    cursor: pointer;
+}
+.info.active {
+    display: block;
+}
+.info {
+    display: none;
+}
